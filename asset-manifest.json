@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Quote-Generator/static/css/main.dbda60c2.css",
+    "main.js": "/Quote-Generator/static/js/main.c4ed081d.js",
+    "static/js/453.24d52f09.chunk.js": "/Quote-Generator/static/js/453.24d52f09.chunk.js",
+    "static/media/beauty.jpg": "/Quote-Generator/static/media/beauty.ca747c2e49b17d95b4f5.jpg",
+    "static/media/death.jpg": "/Quote-Generator/static/media/death.614f630909d474e62c67.jpg",
+    "static/media/funny.jpg": "/Quote-Generator/static/media/funny.ca73c2051731437f2457.jpg",
+    "index.html": "/Quote-Generator/index.html",
+    "main.dbda60c2.css.map": "/Quote-Generator/static/css/main.dbda60c2.css.map",
+    "main.c4ed081d.js.map": "/Quote-Generator/static/js/main.c4ed081d.js.map",
+    "453.24d52f09.chunk.js.map": "/Quote-Generator/static/js/453.24d52f09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbda60c2.css",
+    "static/js/main.c4ed081d.js"
+  ]
+}
